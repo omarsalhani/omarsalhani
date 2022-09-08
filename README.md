@@ -1,6 +1,6 @@
 - 👋 Hi, I’m omarsalhani
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Flutter
+- 👀 I’m .NET C# Desktop Developer
+- 🌱 I’m currently learning .NET Core & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ::
 -- Whatsapp : +963 962 434 991
