@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ::
 -- Whatsapp : +20 120 490 83 75
--- Facebook : OmarSalhani
 
 <!---
 omarsalhani/omarsalhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
