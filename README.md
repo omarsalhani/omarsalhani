@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .NET Core & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ::
--- Whatsapp : +963 962 434 991
+-- Whatsapp : +20 120 490 83 75
 -- Facebook : OmarSalhani
 
 <!---
